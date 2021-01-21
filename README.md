@@ -10,4 +10,4 @@ Earthlearning will continue to be updated
 <p align="center"><img width="100%" src="https://github.com/HaoweiGis/EarthLearning/blob/main/result/example.png" /></p>
 
 ## Related result
-Big Earth Data in Support of the Sustainable Development Goals(2021)
+Big Earth Data in Support of the Sustainable Development Goals(2020)
