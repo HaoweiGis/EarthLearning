@@ -24,6 +24,7 @@ from scipy.signal.filter_design import band_stop_obj
 # https://gdal.org/programs/gdalwarp.html
 # gdalwarp -q  -crop_to_cutline -cutline ../shpfile/beijing.shp -t_srs EPSG:3857 -tr 30 30 -of GTiff beijing.tif beijing_clip.tif
 
+__all__ = ['GeoImgR', 'GeoImgW']
 
 def GeoImgR(filename):
     dataset = gdal.Open(filename)
